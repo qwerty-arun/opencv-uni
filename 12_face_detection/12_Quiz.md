@@ -7,7 +7,7 @@
 - [ ] The model needs to be first fine-tuned on a custom dataset.
 - [x] GPU
 
-## 2. Which of the following will give the same result as cv2.flip(img, 1)?
+## 2. Which of the following will give the same result as `cv2.flip(img, 1)`?
 - [x] img[:, ::-1,:]
 - [ ] img[::-1, :, :]
 - [ ] img[:, :, ::-1]
